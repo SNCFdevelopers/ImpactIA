@@ -31,12 +31,14 @@ Main tool is a standalone spreadsheet, with 4 parts:
 <img width="605" height="85" alt="ImpactIA_results2" src="https://github.com/user-attachments/assets/107b8480-8458-49d6-9002-3ebc7bc9b45b" />
 
 All computations assumptions are explained into our “Guide méthodologique”.
+About Electricity Mix : see beleow country selector to adapt electricity mix is NOT implemented YET.
 
 ## Contributing
 We are looking to the following contributions:
 -	English translation: as for now, assets are only available in French. A translated guide would be an awesome addition to the work.
 -	XLSX-to-ODF conversion is not within our area of expertise. However, we would be pleased to accept and share an OpenDocument-based implementation, which is more closely aligned with the core values of this work: interoperability, knowledge sharing, and sustainability
 -	Ideas and help to integrate this work into others (potentially more appropriate for industrialization)
+-	choosing electricity mix via a country selector : this is a first citizen parameter to compute results. We have in the calculation a default electricity mix, and this parameter is enough for our needs but this could be easily extended to cope with _any_ country hosting models. Often app front is in a different country. Regarding its emissions you could either, implement a country selector for this part OR take an average mix for your whole application.
 
 We are not looking for : 
 -	Pull request for new features
