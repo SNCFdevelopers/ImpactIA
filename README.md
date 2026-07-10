@@ -30,7 +30,7 @@ Main tool is a standalone spreadsheet, with 4 parts:
 
 <img width="605" height="85" alt="ImpactIA_results2" src="https://github.com/user-attachments/assets/107b8480-8458-49d6-9002-3ebc7bc9b45b" />
 
-All computations assumptions are explained into our “Guide méthodologique”.
+All computations assumptions are explained into our “Guide méthodologique” taht you will find under the /docs folder.
 About Electricity Mix : see beleow country selector to adapt electricity mix is NOT implemented YET.
 
 ## Contributing
