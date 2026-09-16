@@ -23,22 +23,22 @@ We hope that our metholodogy work will be used, criticized and will help improve
 ## Usage
 
 Main tool is a standalone spreadsheet, with 4 parts:
--	README/Notice : explains the ideas, the principles
--	DATA/Données : the place to insert your inputs : to get results you need to know your LLM by its name, and be able to estimate or get the number of input tokens, optionally output & embedding tokens, and location based electricity mix for inference estimation.
--	RESULTS/Résultats : your figures. 
--	BEST PRACTICES/ Bonnes Pratiques : explore AI Ecodesign AI levers
+-	README/Notice: explains the ideas, the principles
+-	DATA/Données: the place to insert your inputs : to get results you need to know your LLM by its name, and be able to estimate or get the number of input tokens, optionally output & embedding tokens, and location based electricity mix for inference estimation.
+-	RESULTS/Résultats: your figures. 
+-	BEST PRACTICES/Bonnes Pratiques: explore AI Ecodesign AI levers
 
 <img width="605" height="85" alt="ImpactIA_results2" src="https://github.com/user-attachments/assets/107b8480-8458-49d6-9002-3ebc7bc9b45b" />
 
 All computations assumptions are explained into our “Guide méthodologique” : you will find it under the /docs folder.
-About Electricity Mix : A first implementation of electricity mix is available for a few west european countries and USA. We made it very easy to extend it to more countries if needed.
+About Electricity Mix: A first implementation of electricity mix is available for a few west European countries and USA. We made it very easy to extend it to more countries if needed.
 
 A comparison between our tool Impact'IA and Ecologits is detailed in document "Impact’IA vs Ecologits". It goes into details regarding, why we are better than Ecologits.
 
 ## Contributing
-We are looking to the following contributions :
+We are looking to the following contributions:
 -	English translation: as for now, assets are only available in French. A translated guide would be an awesome addition to the work.
--	XLSX-to-ODF conversion is not within our area of expertise. However, we would be pleased to accept and share an OpenDocument-based implementation, which is more closely aligned with the core values of this work: interoperability, knowledge sharing, and sustainability
+-	XLSX-to-ODF conversion is not within our area of expertise. However, we would be pleased to accept and share an OpenDocument-based implementation, which is more closely aligned with the core values of this work: interoperability, knowledge sharing, and sustainability.
 -	Ideas and help to integrate this work into others (potentially more appropriate for industrialization)
 -	Integration back into Ecologits or industrialized tool.
 
