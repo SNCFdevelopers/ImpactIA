@@ -34,7 +34,7 @@ All computations assumptions are explained into our “Guide méthodologique” 
 About Electricity Mix: A first implementation of electricity mix is available for a few west European countries and USA. We made it very easy to extend it to more countries if needed.
 
 A comparison between our tool Impact'IA and Ecologits _was_ detailed in document "Impact’IA vs Ecologits". It goes into details regarding, why we are better than Ecologits.
-=> update nov 19th, 2026 : this document is no longer avaialable. Due to further modelling and computation fixes, figures in the document are not accurate anymore. 
+=> **update nov 19th, 2026** : this document is no longer avaialable. Due to further modelling and computation fixes, figures in the document are not accurate anymore. 
 For those who still have this document : training finally account in our last modelling for less than 2% rather than 4 to 16%.
 
 ## Contributing
